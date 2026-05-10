@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreRelationshipDemo", "EfCoreRelationshipDemo.csproj", "{237A23E5-7FF8-C663-7658-C2926E655021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237A23E5-7FF8-C663-7658-C2926E655021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237A23E5-7FF8-C663-7658-C2926E655021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237A23E5-7FF8-C663-7658-C2926E655021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237A23E5-7FF8-C663-7658-C2926E655021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D5171C-6ECB-4D50-92FC-A289559F4792}
+	EndGlobalSection
+EndGlobal
